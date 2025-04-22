@@ -27,7 +27,9 @@ no-reply.9sswp4@zapiermail.com
 \
 # Sending A Message
 - Enter your message and who you want it to be sent to
-- Generate a message code
-  > This is stored in the clipboard so don't copy anything else.
+	> They **need** to have the shortcut installed for this to work
+- Generate a message code, and copy it
+  > This is stored in the clipboard so don't copy anything else
 - Find the client that will send the message
 - Send.
+	> This will send a message from the chosen client to the recipiant with whatever messege you want.
