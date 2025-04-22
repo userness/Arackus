@@ -20,7 +20,7 @@ no-reply.9sswp4@zapiermail.com
 ```
 6. Any acount, any recipient.
 7. Run **immediatly**.
-8. Set it to run Arackus
+8. Set it to run the shortcut.
 9. Create a new email in the mail app, or note one thats already there.
 10. In the clients tab, name the client and add the email address.
 \
