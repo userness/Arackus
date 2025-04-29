@@ -27,7 +27,7 @@ no-reply.9sswp4@zapiermail.com
 \
 \
 # Sending A Message
-- Enter your message and who you want it to be sent to
+- Enter your message and who you want it to be sent to. Message mode is for phone numbers, contact is for the name of a contact.
 	> They **need** to have the shortcut installed for this to work
 - Generate a message code, and copy it
   > This is stored in the clipboard so don't copy anything else
