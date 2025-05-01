@@ -14,7 +14,7 @@ Arackus is an iOS Remote Access Trojan (RAT) using the native mail and shortcut 
 5. Select email
 6. Sender email:
 ```sh
-no-reply.9sswp4@zapiermail.com
+MS_Qeg5Gb@test-z0vklo66v6el7qrx.mlsender.net
 ```
 7. Subject contains:
 ```sh
