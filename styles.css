@@ -12,3 +12,22 @@ body {
   font-size: 17px;
   width: 25%;
 }
+.tablink:hover {
+  color: #7209B7;
+  background-color: white;
+}
+/* From Uiverse.io by anniekoop */ 
+.input {
+  max-width: 190px;
+  padding: 0.875rem;
+  font-size: 1rem;
+  border: 1.5px solid #000;
+  border-radius: 0.5rem;
+  box-shadow: 2.5px 3px 0 #000;
+  outline: none;
+  transition: ease 0.25s;
+}
+
+.input:focus {
+  box-shadow: 5.5px 7px 0 black;
+}

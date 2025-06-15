@@ -7,7 +7,16 @@
     <title>Arackus Webui</title>
 </head>
 <body>
-    <p>thjiuytrfgbhytgfgvbhgtfg</pp>
-    <button class="tablink" onclick="openPage('Home', this, 'red')">Home</button>
+    <script src="tablinks.js"></script>
+    <button class="tablink" onclick="openPage('Send', this, 'white')" id="defaultOpen>Send</button>
+    <button class="tablink" onclick="openPage('Message', this, 'white')">Message</button>
+    <button class="tablink" onclick="openPage('Screenshot', this, 'white')">Screenshot</button>
+    <button class="tablink" onclick="openPage('Popup', this, 'white')">Popup</button>
+
+    <div id="Send" class="tabcontent">
+        <script src="/tabs/send.js"></script>
+        <input type="email" name="text" class="input" placeholder="Email address" />
+    </div>
+    
 </body>
 </html>
