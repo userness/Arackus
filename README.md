@@ -1,5 +1,13 @@
 
-# Arackus
+## Arackus
+
+
+### My supabase instance has run down, so the screenshotting feature is temporarily pa
+aused.
+
+
+
+
 
 Arackus is an iOS Remote Access Trojan (RAT) using the native mail and shortcut apps.
 
